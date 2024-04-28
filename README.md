@@ -67,28 +67,9 @@ We have responded to Karen letting her know that a hardware replacement is slate
 
 Similar to the other tickets we have changed the default priority level and SLA, in this case we have chose High for priority and SEV-B for SLA.
 This issue seems to not be extremely important but it is impacting general business operations so a SEV-B SLA seems appropriate. We have decided to assign this ticket to John, given this is within his scope.
-![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/293a83fb-4a85-4f75-953d-4de694387aef)
+Next, we have signed out of Jane, and signed into John to 'resolve' the issue.
+
+
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/3df78257-d881-4b1c-b1e4-c9257ebc3e2f)
 
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
