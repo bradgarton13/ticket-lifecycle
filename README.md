@@ -52,13 +52,21 @@ Here is what these tickets look like when viewed by an agent looking to resolve 
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/f14729e7-1622-47b9-bd89-981572b7c207)
 
   
-Displayed Below, we have signed into the admin jane doe and revised some of the default descriptions to this ticket.
-Given the percieved severity of the issue, we have changed the 
+Displayed Below, we have signed into the admin Jane Doe and revised some of the default descriptions of this ticket.
+Given the percieved severity of the issue, we have changed the priority to Emergency and SLA plan to SEV-A. We have also
+assigned it to System Administrators department since the issue seems outside the scope of general support. We created a hypothetical resolution;
+'Jerry Johnson was able to investigate and resolve the issue'.
 
-![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/52121650-9eb8-4c3d-914a-6483550307be)
 
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/26ade1d8-8e4c-4b6d-a5f3-645f74565ec4)
+In this ticket we determined that the priority was low because the issue was not that serious, by proxy putting into the SEV-C category.
+We have responded to Karen letting her know that a hardware replacement is slated for Q1 and that we have new units available now for testing.
+
+
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/e32c9986-78a8-4015-adc5-8d41cc7d7952)
+
+Similar to the other tickets we have changed the default priority level and SLA, in this case we have chose High for priority and SEV-B for SLA.
+This issue seems to not be extremely important but it is impacting general business operations so a SEV-B SLA seems appropriate. We have decided to assign this ticket to John, given this is within his scope.
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/293a83fb-4a85-4f75-953d-4de694387aef)
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/3df78257-d881-4b1c-b1e4-c9257ebc3e2f)
 
