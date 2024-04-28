@@ -49,8 +49,9 @@ Below, I have created three sample tickets created by our end-users Ken and Kare
 <p>
 Here is what these tickets look like when viewed by an agent looking to resolve them.
   
-![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/f14729e7-1622-47b9-bd89-981572b7c207).
+![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/f14729e7-1622-47b9-bd89-981572b7c207)
 
+  
 Displayed Below, we have signed into the admin jane doe and revised some of the default descriptions to this ticket.
 Given the percieved severity of the issue, we have changed the 
 
