@@ -59,13 +59,13 @@ assigned it to System Administrators department since the issue seems outside th
 
 
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/26ade1d8-8e4c-4b6d-a5f3-645f74565ec4)
-In this ticket we determined that the priority was low because the issue was not that serious, by proxy putting into the SEV-C category.
+In the next ticket we determined that the priority was low because the issue was not that serious, by proxy putting into the SEV-C category.
 We have responded to Karen letting her know that a hardware replacement is slated for Q1 and that we have new units available now for testing.
 
 
 ![image](https://github.com/bradgarton13/ticket-lifecycle/assets/166873905/e32c9986-78a8-4015-adc5-8d41cc7d7952)
 
-Similar to the other tickets we have changed the default priority level and SLA, in this case we have chose High for priority and SEV-B for SLA.
+For our last ticket we have changed the default priority level and SLA, in this case we have chosen High for priority and SEV-B for SLA.
 This issue seems to not be extremely important but it is impacting general business operations so a SEV-B SLA seems appropriate. We have decided to assign this ticket to John, given this is within his scope.
 Next, we have signed out of Jane, and signed into John to 'resolve' the issue.
 
